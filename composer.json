@@ -1,9 +1,9 @@
 {
-  "name": "bitura/auth",
+  "name": "venpm/auth",
   "description": "Vendor placeholder – not intended for use",
   "type": "library",
   "license": "MIT",
   "autoload": {
-    "psr-4": { "Bitura\\Auth\\": "src/" }
+    "psr-4": { "Venpm\\Auth\\": "src/" }
   }
 }
